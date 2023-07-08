@@ -5,9 +5,7 @@ The bot provides you the information about digital quality of life (DQL) in diff
 
 ## Demo
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/8c9kNT3JIM4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+https://github.com/nata-kostina/uni-telegram-bot-digital-wellbeing/assets/56758152/5f1fb4ca-536a-4067-8305-5083d7a0d926
 
 [https://www.youtube.com/watch?v=8c9kNT3JIM4](https://www.youtube.com/watch?v=8c9kNT3JIM4)
 
